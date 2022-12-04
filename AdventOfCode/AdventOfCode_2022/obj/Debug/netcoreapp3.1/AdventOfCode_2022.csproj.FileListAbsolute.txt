@@ -12,3 +12,17 @@ D:\00_Code\AdventOfCode\AdventOfCode\AdventOfCode_2022\obj\Debug\netcoreapp3.1\A
 D:\00_Code\AdventOfCode\AdventOfCode\AdventOfCode_2022\obj\Debug\netcoreapp3.1\AdventOfCode_2022.dll
 D:\00_Code\AdventOfCode\AdventOfCode\AdventOfCode_2022\obj\Debug\netcoreapp3.1\AdventOfCode_2022.pdb
 D:\00_Code\AdventOfCode\AdventOfCode\AdventOfCode_2022\obj\Debug\netcoreapp3.1\AdventOfCode_2022.genruntimeconfig.cache
+C:\Users\baerb\source\repos\AdventOfCode\AdventOfCode\AdventOfCode_2022\bin\Debug\netcoreapp3.1\AdventOfCode_2022.exe
+C:\Users\baerb\source\repos\AdventOfCode\AdventOfCode\AdventOfCode_2022\bin\Debug\netcoreapp3.1\AdventOfCode_2022.deps.json
+C:\Users\baerb\source\repos\AdventOfCode\AdventOfCode\AdventOfCode_2022\bin\Debug\netcoreapp3.1\AdventOfCode_2022.runtimeconfig.json
+C:\Users\baerb\source\repos\AdventOfCode\AdventOfCode\AdventOfCode_2022\bin\Debug\netcoreapp3.1\AdventOfCode_2022.runtimeconfig.dev.json
+C:\Users\baerb\source\repos\AdventOfCode\AdventOfCode\AdventOfCode_2022\bin\Debug\netcoreapp3.1\AdventOfCode_2022.dll
+C:\Users\baerb\source\repos\AdventOfCode\AdventOfCode\AdventOfCode_2022\bin\Debug\netcoreapp3.1\AdventOfCode_2022.pdb
+C:\Users\baerb\source\repos\AdventOfCode\AdventOfCode\AdventOfCode_2022\obj\Debug\netcoreapp3.1\AdventOfCode_2022.csproj.AssemblyReference.cache
+C:\Users\baerb\source\repos\AdventOfCode\AdventOfCode\AdventOfCode_2022\obj\Debug\netcoreapp3.1\AdventOfCode_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baerb\source\repos\AdventOfCode\AdventOfCode\AdventOfCode_2022\obj\Debug\netcoreapp3.1\AdventOfCode_2022.AssemblyInfoInputs.cache
+C:\Users\baerb\source\repos\AdventOfCode\AdventOfCode\AdventOfCode_2022\obj\Debug\netcoreapp3.1\AdventOfCode_2022.AssemblyInfo.cs
+C:\Users\baerb\source\repos\AdventOfCode\AdventOfCode\AdventOfCode_2022\obj\Debug\netcoreapp3.1\AdventOfCode_2022.csproj.CoreCompileInputs.cache
+C:\Users\baerb\source\repos\AdventOfCode\AdventOfCode\AdventOfCode_2022\obj\Debug\netcoreapp3.1\AdventOfCode_2022.dll
+C:\Users\baerb\source\repos\AdventOfCode\AdventOfCode\AdventOfCode_2022\obj\Debug\netcoreapp3.1\AdventOfCode_2022.pdb
+C:\Users\baerb\source\repos\AdventOfCode\AdventOfCode\AdventOfCode_2022\obj\Debug\netcoreapp3.1\AdventOfCode_2022.genruntimeconfig.cache

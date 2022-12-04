@@ -15,8 +15,12 @@ namespace AdventOfCode_2022
             //SolverDay2.Solve_2();
 
             //Day 3
-            SolverDay3.Solve_1();
-            //SolverDay2.Solve_2();
+            //SolverDay3.Solve_1();
+            //SolverDay3.Solve_2();
+
+            //Day 4
+           //  SolverDay4.Solve_1();
+            SolverDay4.Solve_2();
 
         }
     }
