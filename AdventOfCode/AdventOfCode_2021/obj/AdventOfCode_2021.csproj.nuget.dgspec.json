@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baerb\\Source\\Repos\\AdventOfCode\\AdventOfCode\\AdventOfCode_2021\\AdventOfCode_2021.csproj": {}
+    "D:\\00_Code\\AdventOfCode\\AdventOfCode\\AdventOfCode_2021\\AdventOfCode_2021.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baerb\\Source\\Repos\\AdventOfCode\\AdventOfCode\\AdventOfCode_2021\\AdventOfCode_2021.csproj": {
+    "D:\\00_Code\\AdventOfCode\\AdventOfCode\\AdventOfCode_2021\\AdventOfCode_2021.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baerb\\Source\\Repos\\AdventOfCode\\AdventOfCode\\AdventOfCode_2021\\AdventOfCode_2021.csproj",
+        "projectUniqueName": "D:\\00_Code\\AdventOfCode\\AdventOfCode\\AdventOfCode_2021\\AdventOfCode_2021.csproj",
         "projectName": "AdventOfCode_2021",
-        "projectPath": "C:\\Users\\baerb\\Source\\Repos\\AdventOfCode\\AdventOfCode\\AdventOfCode_2021\\AdventOfCode_2021.csproj",
-        "packagesPath": "C:\\Users\\baerb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baerb\\source\\repos\\AdventOfCode\\AdventOfCode\\AdventOfCode_2021\\obj\\",
+        "projectPath": "D:\\00_Code\\AdventOfCode\\AdventOfCode\\AdventOfCode_2021\\AdventOfCode_2021.csproj",
+        "packagesPath": "C:\\Users\\bstaub\\.nuget\\packages\\",
+        "outputPath": "D:\\00_Code\\AdventOfCode\\AdventOfCode\\AdventOfCode_2021\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\baerb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bstaub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://build-vm.hxgngspzur.onmicrosoft.com/nugetserver/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,17 +50,22 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.23, 3.1.23]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
