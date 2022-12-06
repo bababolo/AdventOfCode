@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gqe3bLzNrWq/xTBp0F02HtP73xXARo5R76qfxYVacpB0sfHAn6E6lqXuEcCARbCu0ShJkbZ/PXvrFd1B6NwMCw==",
+  "dgSpecHash": "+ZekY6j7U7dDxhVuawOJdUJ2wmt9jjL1OLjG4cm8wsZIG/o1ddOSEHW3ryk3HldJ7YS4AMQyvXyoGfmEGNKIUQ==",
   "success": true,
   "projectFilePath": "D:\\00_Code\\AdventOfCode\\AdventOfCode\\AdventOfCode_2022\\AdventOfCode_2022.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\bstaub\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

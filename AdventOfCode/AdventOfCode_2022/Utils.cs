@@ -15,7 +15,7 @@ namespace AdventOfCode2022
 
         public static string GetInput(int day, bool isSample = false)
         {
-            string currentDirectory = @$"D:\00_Code\AdventOfCode\AdventOfCode\AdventOfCode_2022\PuzzleInputs\PuzzleInputs\Day{day}";
+            string currentDirectory = @$"D:\00_Code\AdventOfCode\AdventOfCode\AdventOfCode_2022\PuzzleInputs\Day{day}";
             string fileName = isSample ? "Sample.txt" : "Input.txt";
             string filePath = System.IO.Path.Combine(currentDirectory, fileName);
 
