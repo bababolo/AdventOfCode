@@ -12,3 +12,4 @@ D:\00_Code\AdventOfCode\AdventOfCode\AdventOfCode_2023\obj\Debug\net7.0\refint\A
 D:\00_Code\AdventOfCode\AdventOfCode\AdventOfCode_2023\obj\Debug\net7.0\AdventOfCode_2023.pdb
 D:\00_Code\AdventOfCode\AdventOfCode\AdventOfCode_2023\obj\Debug\net7.0\AdventOfCode_2023.genruntimeconfig.cache
 D:\00_Code\AdventOfCode\AdventOfCode\AdventOfCode_2023\obj\Debug\net7.0\ref\AdventOfCode_2023.dll
+D:\00_Code\AdventOfCode\AdventOfCode\AdventOfCode_2023\obj\Debug\net7.0\AdventOfCode_2023.csproj.AssemblyReference.cache
