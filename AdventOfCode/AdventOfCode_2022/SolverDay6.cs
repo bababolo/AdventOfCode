@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace AdventOfCode2022
 {
@@ -15,11 +14,11 @@ namespace AdventOfCode2022
                 foreach (char obj in input)
                 {
                     Console.WriteLine(obj);
-                    if (common.IndexOf(obj.ToString()) >= 0)
+                    if (common.IndexOf(obj.ToString(), StringComparison.Ordinal) >= 0)
                     {
                         common = common.Split(obj)[1];
                     }
-                    common = common + obj.ToString();
+                    common = common + obj;
                     counter++;
                 Console.WriteLine("common: " + common);
                 if (common.Length == 4)
