@@ -50,7 +50,7 @@ namespace AdventOfCode2021
             inputList.RemoveAt(0);
 
             List<Board> boards = CreateBoards(inputList);
-            List<int> ids = new List<int>();
+            List<long> ids = new List<long>();
             int lastNumber = 0;
             bool finished = false;
             foreach (var number in numbers)

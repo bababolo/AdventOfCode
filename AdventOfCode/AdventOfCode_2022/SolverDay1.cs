@@ -35,7 +35,7 @@ namespace AdventOfCode2022
             string[] input = Utils.GetInputByLine(1, isSample);
             int max = 0;
             int sum = 0; 
-            List<int> sums = new List<int>();
+            List<long> sums = new List<long>();
             for (int i = 0; i < input.Length; i++)
             {
 
