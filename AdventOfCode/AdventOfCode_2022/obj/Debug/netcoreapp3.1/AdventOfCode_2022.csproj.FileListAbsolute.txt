@@ -26,3 +26,4 @@ C:\Users\baerb\source\repos\AdventOfCode\AdventOfCode\AdventOfCode_2022\obj\Debu
 C:\Users\baerb\source\repos\AdventOfCode\AdventOfCode\AdventOfCode_2022\obj\Debug\netcoreapp3.1\AdventOfCode_2022.dll
 C:\Users\baerb\source\repos\AdventOfCode\AdventOfCode\AdventOfCode_2022\obj\Debug\netcoreapp3.1\AdventOfCode_2022.pdb
 C:\Users\baerb\source\repos\AdventOfCode\AdventOfCode\AdventOfCode_2022\obj\Debug\netcoreapp3.1\AdventOfCode_2022.genruntimeconfig.cache
+D:\00_Code\AdventOfCode\AdventOfCode\AdventOfCode_2022\obj\Debug\netcoreapp3.1\AdventOfCode_2022.sourcelink.json

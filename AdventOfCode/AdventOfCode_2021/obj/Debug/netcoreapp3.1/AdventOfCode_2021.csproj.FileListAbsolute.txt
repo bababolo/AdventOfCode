@@ -26,3 +26,4 @@ D:\00_Code\AdventOfCode\AdventOfCode\AdventOfCode_2021\obj\Debug\netcoreapp3.1\A
 D:\00_Code\AdventOfCode\AdventOfCode\AdventOfCode_2021\obj\Debug\netcoreapp3.1\AdventOfCode_2021.dll
 D:\00_Code\AdventOfCode\AdventOfCode\AdventOfCode_2021\obj\Debug\netcoreapp3.1\AdventOfCode_2021.pdb
 D:\00_Code\AdventOfCode\AdventOfCode\AdventOfCode_2021\obj\Debug\netcoreapp3.1\AdventOfCode_2021.genruntimeconfig.cache
+D:\00_Code\AdventOfCode\AdventOfCode\AdventOfCode_2021\obj\Debug\netcoreapp3.1\AdventOfCode_2021.sourcelink.json

@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = AdventOfCode_2022
 build_property.ProjectDir = D:\00_Code\AdventOfCode\AdventOfCode\AdventOfCode_2022\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
