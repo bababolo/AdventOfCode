@@ -10,7 +10,7 @@ namespace AdventOfCode2022
         private static List<Directory> resultList = new List<Directory>();
         private static int sum = 0;
 
-        public static void Solve_1(bool isSample = false)
+        public static void Solve_1(bool isSample =true)
         {
             Console.WriteLine("Aufgabe 7.1");
             string[] input= Utils.GetInputByLine(7, isSample);

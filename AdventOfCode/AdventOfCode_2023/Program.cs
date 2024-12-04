@@ -39,6 +39,10 @@
             //Day 9
             //Day9.RunPart1();
             //Day9.RunPart2();
+
+            //Day 18
+            Day18.RunPart1();
+            //Day9.RunPart2();
         }
     }
 }
