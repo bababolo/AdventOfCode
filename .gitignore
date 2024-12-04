@@ -1,0 +1,16 @@
+syntax: glob
+node_modules/
+.git/
+*.user
+*.suo
+bin
+packages
+obj
+dist
+tmp
+build
+platforms
+plugins
+.vs
+StyleCop.Cache
+.tmp/
